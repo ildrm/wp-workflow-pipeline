@@ -28,8 +28,8 @@ With **WordPress Workflow Pipeline**, you save time, reduce manual work, and enh
 ## Installation
 
 1. **Download**:
-   - Clone this repository: `git clone https://github.com/your-username/wordpress-workflow-pipeline.git`
-   - Or download the ZIP file from the [Releases](https://github.com/your-username/wordpress-workflow-pipeline/releases) page.
+   - Clone this repository: `git clone https://github.com/ildrm/wp-workflow-pipeline.git`
+   - Or download the ZIP file from the [Releases](https://github.com/ildrm/wp-workflow-pipeline/releases) page.
 
 2. **Upload**:
    - Upload the `wordpress-workflow-pipeline` folder to `/wp-content/plugins/` on your WordPress site.
@@ -112,7 +112,7 @@ Please follow the [WordPress Coding Standards](https://developer.wordpress.org/c
 
 ## Support
 
-- **Issues**: Report bugs or feature requests on the [GitHub Issues](https://github.com/your-username/wordpress-workflow-pipeline/issues) page.
+- **Issues**: Report bugs or feature requests on the [GitHub Issues](https://github.com/ildrm/wp-workflow-pipeline/issues) page.
 - **Community**: Join discussions in the [WordPress Support Forum](https://wordpress.org/support/plugin/wordpress-workflow-pipeline).
 - **Contact**: Reach out via [ildrm.com](https://ildrm.com).
 
